@@ -1,4 +1,4 @@
-## Hi there, I'm [Samuel Emmanuel] 👋
+## Hi there, I'm Samuel Emmanuel 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
